@@ -3,7 +3,7 @@ name: Generate TMDB wallpapers
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 4 * * 1"
+    - cron: "17 4 1 * *"
 
 permissions:
   contents: write
