@@ -1,0 +1,248 @@
+{
+  "generatedAt": "2026-07-13T18:39:52.481Z",
+  "outputPath": "output/kdrama.png",
+  "name": "K-drama",
+  "media": "tv",
+  "mediaTypes": [
+    "tv"
+  ],
+  "genre": {
+    "id": 18,
+    "label": "Drama",
+    "slug": "drama"
+  },
+  "layout": "equal",
+  "sortBy": "popularity.desc",
+  "releaseDateGte": "2016-07-13",
+  "releaseDateLte": "2026-07-13",
+  "firstAirDateGte": "2016-07-13",
+  "firstAirDateLte": "2026-07-13",
+  "rotation": -16,
+  "imageOffsetX": -50,
+  "imageOffsetY": 75,
+  "gradient": {
+    "startColor": "#000000",
+    "startAlpha": 0.5,
+    "endColor": "#000000",
+    "endAlpha": 0,
+    "angle": 0
+  },
+  "originalLanguage": "ko",
+  "watchProvider": null,
+  "watchRegion": "ES",
+  "cache": ".cache",
+  "width": 1920,
+  "height": 1080,
+  "posterCount": 50,
+  "placementCount": 50,
+  "renderPlacementCount": 165,
+  "renderLayer": {
+    "width": 2847,
+    "height": 2847,
+    "bleed": 322,
+    "offsetX": 463,
+    "offsetY": 883
+  },
+  "tmdbIds": [
+    {
+      "media": "tv",
+      "id": 322055
+    },
+    {
+      "media": "tv",
+      "id": 296206
+    },
+    {
+      "media": "tv",
+      "id": 276161
+    },
+    {
+      "media": "tv",
+      "id": 200709
+    },
+    {
+      "media": "tv",
+      "id": 93405
+    },
+    {
+      "media": "tv",
+      "id": 300727
+    },
+    {
+      "media": "tv",
+      "id": 127529
+    },
+    {
+      "media": "tv",
+      "id": 289763
+    },
+    {
+      "media": "tv",
+      "id": 259695
+    },
+    {
+      "media": "tv",
+      "id": 286360
+    },
+    {
+      "media": "tv",
+      "id": 135157
+    },
+    {
+      "media": "tv",
+      "id": 67915
+    },
+    {
+      "media": "tv",
+      "id": 119769
+    },
+    {
+      "media": "tv",
+      "id": 259837
+    },
+    {
+      "media": "tv",
+      "id": 112888
+    },
+    {
+      "media": "tv",
+      "id": 68398
+    },
+    {
+      "media": "tv",
+      "id": 99966
+    },
+    {
+      "media": "tv",
+      "id": 299365
+    },
+    {
+      "media": "tv",
+      "id": 278573
+    },
+    {
+      "media": "tv",
+      "id": 219246
+    },
+    {
+      "media": "tv",
+      "id": 215072
+    },
+    {
+      "media": "tv",
+      "id": 113268
+    },
+    {
+      "media": "tv",
+      "id": 75820
+    },
+    {
+      "media": "tv",
+      "id": 287009
+    },
+    {
+      "media": "tv",
+      "id": 201859
+    },
+    {
+      "media": "tv",
+      "id": 218539
+    },
+    {
+      "media": "tv",
+      "id": 303143
+    },
+    {
+      "media": "tv",
+      "id": 233347
+    },
+    {
+      "media": "tv",
+      "id": 96102
+    },
+    {
+      "media": "tv",
+      "id": 136283
+    },
+    {
+      "media": "tv",
+      "id": 99489
+    },
+    {
+      "media": "tv",
+      "id": 126485
+    },
+    {
+      "media": "tv",
+      "id": 300954
+    },
+    {
+      "media": "tv",
+      "id": 314784
+    },
+    {
+      "media": "tv",
+      "id": 212204
+    },
+    {
+      "media": "tv",
+      "id": 285838
+    },
+    {
+      "media": "tv",
+      "id": 154825
+    },
+    {
+      "media": "tv",
+      "id": 197067
+    },
+    {
+      "media": "tv",
+      "id": 117376
+    },
+    {
+      "media": "tv",
+      "id": 241454
+    },
+    {
+      "media": "tv",
+      "id": 239385
+    },
+    {
+      "media": "tv",
+      "id": 295509
+    },
+    {
+      "media": "tv",
+      "id": 284465
+    },
+    {
+      "media": "tv",
+      "id": 94796
+    },
+    {
+      "media": "tv",
+      "id": 99490
+    },
+    {
+      "media": "tv",
+      "id": 297640
+    },
+    {
+      "media": "tv",
+      "id": 282810
+    },
+    {
+      "media": "tv",
+      "id": 82063
+    },
+    {
+      "media": "tv",
+      "id": 77705
+    },
+    {
+      "media": "tv",
+      "id": 229915
+    }
+  ]
+}

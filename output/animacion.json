@@ -1,0 +1,248 @@
+{
+  "generatedAt": "2026-07-13T18:37:11.789Z",
+  "outputPath": "output/animacion.png",
+  "name": "Animacion",
+  "media": "movie",
+  "mediaTypes": [
+    "movie"
+  ],
+  "genre": {
+    "id": 16,
+    "label": "Animacion",
+    "slug": "animation"
+  },
+  "layout": "equal",
+  "sortBy": "popularity.desc",
+  "releaseDateGte": "2016-07-13",
+  "releaseDateLte": "2026-07-13",
+  "firstAirDateGte": "2016-07-13",
+  "firstAirDateLte": "2026-07-13",
+  "rotation": -16,
+  "imageOffsetX": -50,
+  "imageOffsetY": 75,
+  "gradient": {
+    "startColor": "#000000",
+    "startAlpha": 0.5,
+    "endColor": "#000000",
+    "endAlpha": 0,
+    "angle": 0
+  },
+  "originalLanguage": null,
+  "watchProvider": null,
+  "watchRegion": "ES",
+  "cache": ".cache",
+  "width": 1920,
+  "height": 1080,
+  "posterCount": 50,
+  "placementCount": 50,
+  "renderPlacementCount": 165,
+  "renderLayer": {
+    "width": 2847,
+    "height": 2847,
+    "bleed": 322,
+    "offsetX": 463,
+    "offsetY": 883
+  },
+  "tmdbIds": [
+    {
+      "media": "movie",
+      "id": 1084244
+    },
+    {
+      "media": "movie",
+      "id": 1226863
+    },
+    {
+      "media": "movie",
+      "id": 1315772
+    },
+    {
+      "media": "movie",
+      "id": 1311031
+    },
+    {
+      "media": "movie",
+      "id": 1007757
+    },
+    {
+      "media": "movie",
+      "id": 1327819
+    },
+    {
+      "media": "movie",
+      "id": 1725116
+    },
+    {
+      "media": "movie",
+      "id": 1084242
+    },
+    {
+      "media": "movie",
+      "id": 301528
+    },
+    {
+      "media": "movie",
+      "id": 1297842
+    },
+    {
+      "media": "movie",
+      "id": 1241982
+    },
+    {
+      "media": "movie",
+      "id": 1545621
+    },
+    {
+      "media": "movie",
+      "id": 980477
+    },
+    {
+      "media": "movie",
+      "id": 1184918
+    },
+    {
+      "media": "movie",
+      "id": 438148
+    },
+    {
+      "media": "movie",
+      "id": 803796
+    },
+    {
+      "media": "movie",
+      "id": 519182
+    },
+    {
+      "media": "movie",
+      "id": 502356
+    },
+    {
+      "media": "movie",
+      "id": 1022789
+    },
+    {
+      "media": "movie",
+      "id": 569094
+    },
+    {
+      "media": "movie",
+      "id": 1218925
+    },
+    {
+      "media": "movie",
+      "id": 324857
+    },
+    {
+      "media": "movie",
+      "id": 1539104
+    },
+    {
+      "media": "movie",
+      "id": 1357633
+    },
+    {
+      "media": "movie",
+      "id": 1146058
+    },
+    {
+      "media": "movie",
+      "id": 354912
+    },
+    {
+      "media": "movie",
+      "id": 991494
+    },
+    {
+      "media": "movie",
+      "id": 1011985
+    },
+    {
+      "media": "movie",
+      "id": 1144107
+    },
+    {
+      "media": "movie",
+      "id": 1167307
+    },
+    {
+      "media": "movie",
+      "id": 1654313
+    },
+    {
+      "media": "movie",
+      "id": 330457
+    },
+    {
+      "media": "movie",
+      "id": 1598785
+    },
+    {
+      "media": "movie",
+      "id": 315162
+    },
+    {
+      "media": "movie",
+      "id": 1175942
+    },
+    {
+      "media": "movie",
+      "id": 1659389
+    },
+    {
+      "media": "movie",
+      "id": 508947
+    },
+    {
+      "media": "movie",
+      "id": 762509
+    },
+    {
+      "media": "movie",
+      "id": 1022787
+    },
+    {
+      "media": "movie",
+      "id": 454640
+    },
+    {
+      "media": "movie",
+      "id": 1599189
+    },
+    {
+      "media": "movie",
+      "id": 508442
+    },
+    {
+      "media": "movie",
+      "id": 823219
+    },
+    {
+      "media": "movie",
+      "id": 260514
+    },
+    {
+      "media": "movie",
+      "id": 1627824
+    },
+    {
+      "media": "movie",
+      "id": 166428
+    },
+    {
+      "media": "movie",
+      "id": 378236
+    },
+    {
+      "media": "movie",
+      "id": 438695
+    },
+    {
+      "media": "movie",
+      "id": 976573
+    },
+    {
+      "media": "movie",
+      "id": 420818
+    }
+  ]
+}

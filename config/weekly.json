@@ -1,0 +1,166 @@
+{
+  "defaults": {
+    "media": "movie",
+    "layout": "equal",
+    "width": 1920,
+    "height": 1080,
+    "posterWidth": 185,
+    "gapX": 22,
+    "gapY": 22,
+    "radius": 12,
+    "rotation": -16,
+    "imageOffsetX": -50,
+    "imageOffsetY": 75,
+    "gradientAngle": 0,
+    "startColor": "#000000",
+    "startAlpha": 0.5,
+    "endColor": "#000000",
+    "endAlpha": 0,
+    "language": "es-ES",
+    "sortBy": "popularity.desc",
+    "releaseDateGte": {
+      "subtract": {
+        "years": 10
+      }
+    },
+    "releaseDateLte": {
+      "now": true
+    },
+    "pages": 8,
+    "watchRegion": "ES",
+    "outputDir": "output"
+  },
+  "jobs": [
+    {
+      "name": "Accion",
+      "genre": "action",
+      "output": "output/accion.png"
+    },
+    {
+      "name": "Animacion",
+      "genre": "animation",
+      "output": "output/animacion.png"
+    },
+    {
+      "name": "Comedia",
+      "genre": "comedy",
+      "output": "output/comedia.png"
+    },
+    {
+      "name": "Drama",
+      "genre": "drama",
+      "output": "output/drama.png"
+    },
+    {
+      "name": "Terror",
+      "genre": "horror",
+      "output": "output/terror.png"
+    },
+    {
+      "name": "Romance",
+      "genre": "romance",
+      "output": "output/romance.png"
+    },
+    {
+      "name": "Ciencia ficcion",
+      "genre": "science-fiction",
+      "output": "output/ciencia-ficcion.png"
+    },
+    {
+      "name": "Suspense",
+      "genre": "thriller",
+      "output": "output/suspense.png"
+    },
+    {
+      "name": "Misterio",
+      "genre": "mystery",
+      "output": "output/misterio.png"
+    },
+    {
+      "name": "K-drama",
+      "genre": "drama",
+      "media": "tv",
+      "layout": "equal",
+      "originalLanguage": "ko",
+      "output": "output/kdrama.png"
+    },
+    {
+      "name": "Netflix",
+      "genre": "all",
+      "media": "mixed",
+      "watchProvider": 8,
+      "output": "output/netflix.png",
+      "startColor": "#000000",
+      "startAlpha": 0.8,
+      "endColor": "#e50914",
+      "endAlpha": 0.1
+    },
+    {
+      "name": "Amazon Prime",
+      "genre": "all",
+      "media": "mixed",
+      "watchProvider": 119,
+      "output": "output/amazon-prime.png",
+      "startColor": "#000000",
+      "startAlpha": 0.8,
+      "endColor": "#00a8e1",
+      "endAlpha": 0.1
+    },
+    {
+      "name": "Disney Plus",
+      "genre": "all",
+      "media": "mixed",
+      "watchProvider": 337,
+      "output": "output/disney-plus.png",
+      "startColor": "#000000",
+      "startAlpha": 0.8,
+      "endColor": "#31c5f4",
+      "endAlpha": 0.1
+    },
+    {
+      "name": "Apple TV",
+      "genre": "all",
+      "media": "mixed",
+      "watchProvider": 350,
+      "output": "output/apple-tv.png",
+      "startColor": "#000000",
+      "startAlpha": 0.8,
+      "endColor": "#ffffff",
+      "endAlpha": 0.1
+    },
+    {
+      "name": "HBO Max",
+      "genre": "all",
+      "media": "mixed",
+      "watchProvider": 1899,
+      "output": "output/hbo-max.png",
+      "startColor": "#000000",
+      "startAlpha": 0.8,
+      "endColor": "#9b5cff",
+      "endAlpha": 0.1
+    },
+    {
+      "name": "Hulu",
+      "genre": "all",
+      "media": "mixed",
+      "watchProvider": 15,
+      "watchRegion": "US",
+      "output": "output/hulu.png",
+      "startColor": "#000000",
+      "startAlpha": 0.8,
+      "endColor": "#1ce783",
+      "endAlpha": 0.1
+    },
+    {
+      "name": "Crunchyroll",
+      "genre": "all",
+      "media": "mixed",
+      "watchProvider": 283,
+      "output": "output/crunchyroll.png",
+      "startColor": "#000000",
+      "startAlpha": 0.8,
+      "endColor": "#f47521",
+      "endAlpha": 0.1
+    }
+  ]
+}

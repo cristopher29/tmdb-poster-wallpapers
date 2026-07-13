@@ -1,0 +1,21 @@
+{
+  "name": "tmdb-poster-wallpapers",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Generate 1920x1080 TMDB poster wallpapers sorted from the top-right corner.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "web": "node src/web-server.js",
+    "generate": "node src/cli.js generate",
+    "generate:all": "node src/cli.js batch --config config/weekly.json",
+    "generate:weekly": "node src/cli.js batch --config config/weekly.json",
+    "check": "node --check src/cli.js && node --check src/web-server.js"
+  },
+  "dependencies": {
+    "date-fns": "^4.4.0",
+    "sharp": "^0.33.5"
+  }
+}

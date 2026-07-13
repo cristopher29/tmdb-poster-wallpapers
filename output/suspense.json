@@ -1,0 +1,248 @@
+{
+  "generatedAt": "2026-07-13T18:37:36.218Z",
+  "outputPath": "output/suspense.png",
+  "name": "Suspense",
+  "media": "movie",
+  "mediaTypes": [
+    "movie"
+  ],
+  "genre": {
+    "id": 53,
+    "label": "Suspense",
+    "slug": "thriller"
+  },
+  "layout": "equal",
+  "sortBy": "popularity.desc",
+  "releaseDateGte": "2016-07-13",
+  "releaseDateLte": "2026-07-13",
+  "firstAirDateGte": "2016-07-13",
+  "firstAirDateLte": "2026-07-13",
+  "rotation": -16,
+  "imageOffsetX": -50,
+  "imageOffsetY": 75,
+  "gradient": {
+    "startColor": "#000000",
+    "startAlpha": 0.5,
+    "endColor": "#000000",
+    "endAlpha": 0,
+    "angle": 0
+  },
+  "originalLanguage": null,
+  "watchProvider": null,
+  "watchRegion": "ES",
+  "cache": ".cache",
+  "width": 1920,
+  "height": 1080,
+  "posterCount": 50,
+  "placementCount": 50,
+  "renderPlacementCount": 165,
+  "renderLayer": {
+    "width": 2847,
+    "height": 2847,
+    "bleed": 322,
+    "offsetX": 463,
+    "offsetY": 883
+  },
+  "tmdbIds": [
+    {
+      "media": "movie",
+      "id": 1339713
+    },
+    {
+      "media": "movie",
+      "id": 1275779
+    },
+    {
+      "media": "movie",
+      "id": 1368314
+    },
+    {
+      "media": "movie",
+      "id": 1280738
+    },
+    {
+      "media": "movie",
+      "id": 1413976
+    },
+    {
+      "media": "movie",
+      "id": 1127384
+    },
+    {
+      "media": "movie",
+      "id": 1279493
+    },
+    {
+      "media": "movie",
+      "id": 1212763
+    },
+    {
+      "media": "movie",
+      "id": 1321008
+    },
+    {
+      "media": "movie",
+      "id": 976912
+    },
+    {
+      "media": "movie",
+      "id": 1711175
+    },
+    {
+      "media": "movie",
+      "id": 1110034
+    },
+    {
+      "media": "movie",
+      "id": 1419406
+    },
+    {
+      "media": "movie",
+      "id": 1122573
+    },
+    {
+      "media": "movie",
+      "id": 1318447
+    },
+    {
+      "media": "movie",
+      "id": 1380291
+    },
+    {
+      "media": "movie",
+      "id": 1198994
+    },
+    {
+      "media": "movie",
+      "id": 755898
+    },
+    {
+      "media": "movie",
+      "id": 1290821
+    },
+    {
+      "media": "movie",
+      "id": 1288341
+    },
+    {
+      "media": "movie",
+      "id": 1254896
+    },
+    {
+      "media": "movie",
+      "id": 840464
+    },
+    {
+      "media": "movie",
+      "id": 1368166
+    },
+    {
+      "media": "movie",
+      "id": 1484913
+    },
+    {
+      "media": "movie",
+      "id": 949536
+    },
+    {
+      "media": "movie",
+      "id": 1472951
+    },
+    {
+      "media": "movie",
+      "id": 1417285
+    },
+    {
+      "media": "movie",
+      "id": 1171145
+    },
+    {
+      "media": "movie",
+      "id": 1010581
+    },
+    {
+      "media": "movie",
+      "id": 1265609
+    },
+    {
+      "media": "movie",
+      "id": 1359685
+    },
+    {
+      "media": "movie",
+      "id": 1266127
+    },
+    {
+      "media": "movie",
+      "id": 1272837
+    },
+    {
+      "media": "movie",
+      "id": 713704
+    },
+    {
+      "media": "movie",
+      "id": 1613798
+    },
+    {
+      "media": "movie",
+      "id": 1318413
+    },
+    {
+      "media": "movie",
+      "id": 1242332
+    },
+    {
+      "media": "movie",
+      "id": 1390300
+    },
+    {
+      "media": "movie",
+      "id": 1424435
+    },
+    {
+      "media": "movie",
+      "id": 385687
+    },
+    {
+      "media": "movie",
+      "id": 1141970
+    },
+    {
+      "media": "movie",
+      "id": 496243
+    },
+    {
+      "media": "movie",
+      "id": 1233413
+    },
+    {
+      "media": "movie",
+      "id": 1317288
+    },
+    {
+      "media": "movie",
+      "id": 411088
+    },
+    {
+      "media": "movie",
+      "id": 1414413
+    },
+    {
+      "media": "movie",
+      "id": 1284465
+    },
+    {
+      "media": "movie",
+      "id": 575265
+    },
+    {
+      "media": "movie",
+      "id": 425274
+    },
+    {
+      "media": "movie",
+      "id": 1340206
+    }
+  ]
+}

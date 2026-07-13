@@ -1,0 +1,248 @@
+{
+  "generatedAt": "2026-07-13T18:37:40.196Z",
+  "outputPath": "output/misterio.png",
+  "name": "Misterio",
+  "media": "movie",
+  "mediaTypes": [
+    "movie"
+  ],
+  "genre": {
+    "id": 9648,
+    "label": "Misterio",
+    "slug": "mystery"
+  },
+  "layout": "equal",
+  "sortBy": "popularity.desc",
+  "releaseDateGte": "2016-07-13",
+  "releaseDateLte": "2026-07-13",
+  "firstAirDateGte": "2016-07-13",
+  "firstAirDateLte": "2026-07-13",
+  "rotation": -16,
+  "imageOffsetX": -50,
+  "imageOffsetY": 75,
+  "gradient": {
+    "startColor": "#000000",
+    "startAlpha": 0.5,
+    "endColor": "#000000",
+    "endAlpha": 0,
+    "angle": 0
+  },
+  "originalLanguage": null,
+  "watchProvider": null,
+  "watchRegion": "ES",
+  "cache": ".cache",
+  "width": 1920,
+  "height": 1080,
+  "posterCount": 50,
+  "placementCount": 50,
+  "renderPlacementCount": 165,
+  "renderLayer": {
+    "width": 2847,
+    "height": 2847,
+    "bleed": 322,
+    "offsetX": 463,
+    "offsetY": 883
+  },
+  "tmdbIds": [
+    {
+      "media": "movie",
+      "id": 1083381
+    },
+    {
+      "media": "movie",
+      "id": 1304313
+    },
+    {
+      "media": "movie",
+      "id": 1202033
+    },
+    {
+      "media": "movie",
+      "id": 1301421
+    },
+    {
+      "media": "movie",
+      "id": 1084242
+    },
+    {
+      "media": "movie",
+      "id": 1368166
+    },
+    {
+      "media": "movie",
+      "id": 1545621
+    },
+    {
+      "media": "movie",
+      "id": 1168190
+    },
+    {
+      "media": "movie",
+      "id": 1159559
+    },
+    {
+      "media": "movie",
+      "id": 680493
+    },
+    {
+      "media": "movie",
+      "id": 411088
+    },
+    {
+      "media": "movie",
+      "id": 1414413
+    },
+    {
+      "media": "movie",
+      "id": 1330021
+    },
+    {
+      "media": "movie",
+      "id": 1470130
+    },
+    {
+      "media": "movie",
+      "id": 414906
+    },
+    {
+      "media": "movie",
+      "id": 574475
+    },
+    {
+      "media": "movie",
+      "id": 1193501
+    },
+    {
+      "media": "movie",
+      "id": 497582
+    },
+    {
+      "media": "movie",
+      "id": 1480387
+    },
+    {
+      "media": "movie",
+      "id": 1219739
+    },
+    {
+      "media": "movie",
+      "id": 1083884
+    },
+    {
+      "media": "movie",
+      "id": 1100782
+    },
+    {
+      "media": "movie",
+      "id": 1078605
+    },
+    {
+      "media": "movie",
+      "id": 329865
+    },
+    {
+      "media": "movie",
+      "id": 1556616
+    },
+    {
+      "media": "movie",
+      "id": 1116201
+    },
+    {
+      "media": "movie",
+      "id": 1560681
+    },
+    {
+      "media": "movie",
+      "id": 419430
+    },
+    {
+      "media": "movie",
+      "id": 530385
+    },
+    {
+      "media": "movie",
+      "id": 1408208
+    },
+    {
+      "media": "movie",
+      "id": 829280
+    },
+    {
+      "media": "movie",
+      "id": 546554
+    },
+    {
+      "media": "movie",
+      "id": 1602337
+    },
+    {
+      "media": "movie",
+      "id": 1668364
+    },
+    {
+      "media": "movie",
+      "id": 1404791
+    },
+    {
+      "media": "movie",
+      "id": 493922
+    },
+    {
+      "media": "movie",
+      "id": 812583
+    },
+    {
+      "media": "movie",
+      "id": 1381027
+    },
+    {
+      "media": "movie",
+      "id": 1129104
+    },
+    {
+      "media": "movie",
+      "id": 870028
+    },
+    {
+      "media": "movie",
+      "id": 1559575
+    },
+    {
+      "media": "movie",
+      "id": 615173
+    },
+    {
+      "media": "movie",
+      "id": 1463681
+    },
+    {
+      "media": "movie",
+      "id": 1415974
+    },
+    {
+      "media": "movie",
+      "id": 423108
+    },
+    {
+      "media": "movie",
+      "id": 1119377
+    },
+    {
+      "media": "movie",
+      "id": 619979
+    },
+    {
+      "media": "movie",
+      "id": 1597655
+    },
+    {
+      "media": "movie",
+      "id": 1547392
+    },
+    {
+      "media": "movie",
+      "id": 880067
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "generatedAt": "2026-07-13T18:37:19.721Z",
+  "outputPath": "output/drama.png",
+  "name": "Drama",
+  "media": "movie",
+  "mediaTypes": [
+    "movie"
+  ],
+  "genre": {
+    "id": 18,
+    "label": "Drama",
+    "slug": "drama"
+  },
+  "layout": "equal",
+  "sortBy": "popularity.desc",
+  "releaseDateGte": "2016-07-13",
+  "releaseDateLte": "2026-07-13",
+  "firstAirDateGte": "2016-07-13",
+  "firstAirDateLte": "2026-07-13",
+  "rotation": -16,
+  "imageOffsetX": -50,
+  "imageOffsetY": 75,
+  "gradient": {
+    "startColor": "#000000",
+    "startAlpha": 0.5,
+    "endColor": "#000000",
+    "endAlpha": 0,
+    "angle": 0
+  },
+  "originalLanguage": null,
+  "watchProvider": null,
+  "watchRegion": "ES",
+  "cache": ".cache",
+  "width": 1920,
+  "height": 1080,
+  "posterCount": 50,
+  "placementCount": 50,
+  "renderPlacementCount": 165,
+  "renderLayer": {
+    "width": 2847,
+    "height": 2847,
+    "bleed": 322,
+    "offsetX": 463,
+    "offsetY": 883
+  },
+  "tmdbIds": [
+    {
+      "media": "movie",
+      "id": 1314481
+    },
+    {
+      "media": "movie",
+      "id": 936075
+    },
+    {
+      "media": "movie",
+      "id": 1155818
+    },
+    {
+      "media": "movie",
+      "id": 1439930
+    },
+    {
+      "media": "movie",
+      "id": 1057265
+    },
+    {
+      "media": "movie",
+      "id": 1305672
+    },
+    {
+      "media": "movie",
+      "id": 1419406
+    },
+    {
+      "media": "movie",
+      "id": 1595852
+    },
+    {
+      "media": "movie",
+      "id": 1477317
+    },
+    {
+      "media": "movie",
+      "id": 441168
+    },
+    {
+      "media": "movie",
+      "id": 1484913
+    },
+    {
+      "media": "movie",
+      "id": 1325734
+    },
+    {
+      "media": "movie",
+      "id": 1292415
+    },
+    {
+      "media": "movie",
+      "id": 1002398
+    },
+    {
+      "media": "movie",
+      "id": 1363620
+    },
+    {
+      "media": "movie",
+      "id": 1010581
+    },
+    {
+      "media": "movie",
+      "id": 1432631
+    },
+    {
+      "media": "movie",
+      "id": 1710008
+    },
+    {
+      "media": "movie",
+      "id": 263115
+    },
+    {
+      "media": "movie",
+      "id": 1156594
+    },
+    {
+      "media": "movie",
+      "id": 744275
+    },
+    {
+      "media": "movie",
+      "id": 1088428
+    },
+    {
+      "media": "movie",
+      "id": 1630423
+    },
+    {
+      "media": "movie",
+      "id": 879945
+    },
+    {
+      "media": "movie",
+      "id": 950028
+    },
+    {
+      "media": "movie",
+      "id": 335984
+    },
+    {
+      "media": "movie",
+      "id": 1141970
+    },
+    {
+      "media": "movie",
+      "id": 872585
+    },
+    {
+      "media": "movie",
+      "id": 496243
+    },
+    {
+      "media": "movie",
+      "id": 911430
+    },
+    {
+      "media": "movie",
+      "id": 1305715
+    },
+    {
+      "media": "movie",
+      "id": 324786
+    },
+    {
+      "media": "movie",
+      "id": 361743
+    },
+    {
+      "media": "movie",
+      "id": 1317288
+    },
+    {
+      "media": "movie",
+      "id": 1287141
+    },
+    {
+      "media": "movie",
+      "id": 680493
+    },
+    {
+      "media": "movie",
+      "id": 1491920
+    },
+    {
+      "media": "movie",
+      "id": 411088
+    },
+    {
+      "media": "movie",
+      "id": 1669057
+    },
+    {
+      "media": "movie",
+      "id": 1414413
+    },
+    {
+      "media": "movie",
+      "id": 1284465
+    },
+    {
+      "media": "movie",
+      "id": 1340206
+    },
+    {
+      "media": "movie",
+      "id": 1514125
+    },
+    {
+      "media": "movie",
+      "id": 976893
+    },
+    {
+      "media": "movie",
+      "id": 475557
+    },
+    {
+      "media": "movie",
+      "id": 1387382
+    },
+    {
+      "media": "movie",
+      "id": 1308767
+    },
+    {
+      "media": "movie",
+      "id": 1330021
+    },
+    {
+      "media": "movie",
+      "id": 406997
+    },
+    {
+      "media": "movie",
+      "id": 482706
+    }
+  ]
+}

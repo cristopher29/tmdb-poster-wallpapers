@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>TMDB Wallpaper Config</title>
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body>
+    <main class="app">
+      <section class="preview-pane">
+        <div class="topbar">
+          <div>
+            <h1>TMDB Wallpaper Config</h1>
+            <p id="status">Cargando config...</p>
+          </div>
+          <button id="saveButton" type="button">Guardar config</button>
+        </div>
+        <div class="canvas-shell">
+          <canvas id="preview" width="1920" height="1080"></canvas>
+        </div>
+      </section>
+
+      <aside class="controls">
+        <label>
+          Seccion
+          <select id="scopeSelect"></select>
+        </label>
+
+        <label>
+          Nombre
+          <input data-field="name" type="text">
+        </label>
+
+        <div class="grid two">
+          <label>
+            Media
+            <select data-field="media">
+              <option value="movie">movie</option>
+              <option value="tv">tv</option>
+              <option value="mixed">mixed</option>
+            </select>
+          </label>
+          <label>
+            Layout
+            <select data-field="layout">
+              <option value="equal">equal</option>
+              <option value="masonry">masonry</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="grid two">
+          <label>
+            Genero
+            <select data-field="genre">
+              <option value="all">all</option>
+              <option value="action">action</option>
+              <option value="animation">animation</option>
+              <option value="comedy">comedy</option>
+              <option value="drama">drama</option>
+              <option value="horror">horror</option>
+              <option value="romance">romance</option>
+              <option value="science-fiction">science-fiction</option>
+              <option value="thriller">thriller</option>
+              <option value="mystery">mystery</option>
+            </select>
+          </label>
+          <label>
+            Watch provider
+            <input data-field="watchProvider" type="number" min="1" step="1">
+          </label>
+        </div>
+
+        <div class="grid three">
+          <label>
+            Region
+            <input data-field="watchRegion" type="text" maxlength="2">
+          </label>
+          <label>
+            Idioma original
+            <input data-field="originalLanguage" type="text" placeholder="ko">
+          </label>
+          <label>
+            Paginas
+            <input data-field="pages" type="number" min="1" max="50" step="1">
+          </label>
+        </div>
+
+        <div class="grid two">
+          <label>
+            Orden
+            <input data-field="sortBy" type="text">
+          </label>
+          <label>
+            Fecha min
+            <textarea data-field="releaseDateGte" rows="3" spellcheck="false"></textarea>
+          </label>
+        </div>
+
+        <label>
+          Fecha max
+          <textarea data-field="releaseDateLte" rows="2" spellcheck="false"></textarea>
+        </label>
+
+        <div class="grid three">
+          <label>
+            Poster width
+            <input data-field="posterWidth" type="number" min="80" max="420" step="1">
+          </label>
+          <label>
+            Gap X
+            <input data-field="gapX" type="number" min="-80" max="160" step="1">
+          </label>
+          <label>
+            Gap Y
+            <input data-field="gapY" type="number" min="-80" max="160" step="1">
+          </label>
+        </div>
+
+        <div class="grid three">
+          <label>
+            Radio
+            <input data-field="radius" type="number" min="0" max="80" step="1">
+          </label>
+          <label>
+            Angulo imagen
+            <input data-field="rotation" type="number" min="-90" max="90" step="1">
+          </label>
+          <label>
+            Angulo gradiente
+            <input data-field="gradientAngle" type="number" min="0" max="360" step="1">
+          </label>
+        </div>
+
+        <div class="grid two">
+          <label>
+            Offset X
+            <input data-field="imageOffsetX" type="number" min="-800" max="800" step="1">
+          </label>
+          <label>
+            Offset Y
+            <input data-field="imageOffsetY" type="number" min="-800" max="800" step="1">
+          </label>
+        </div>
+
+        <div class="grid two">
+          <label>
+            Color inicial
+            <input data-field="startColor" type="color">
+          </label>
+          <label>
+            Color final
+            <input data-field="endColor" type="color">
+          </label>
+        </div>
+
+        <div class="grid two">
+          <label>
+            Opacidad inicial
+            <input data-field="startAlpha" type="number" min="0" max="1" step="0.05">
+          </label>
+          <label>
+            Opacidad final
+            <input data-field="endAlpha" type="number" min="0" max="1" step="0.05">
+          </label>
+        </div>
+
+        <div class="grid two">
+          <label>
+            Archivo de salida
+            <input data-field="output" type="text">
+          </label>
+          <label>
+            Max posters
+            <input data-field="maxPosters" type="number" min="1" max="200" step="1">
+          </label>
+        </div>
+      </aside>
+    </main>
+    <script type="module" src="/app.js"></script>
+  </body>
+</html>
