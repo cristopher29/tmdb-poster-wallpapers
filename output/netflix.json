@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T18:37:48.227Z",
+  "generatedAt": "2026-08-01T06:42:46.477Z",
   "outputPath": "output/netflix.png",
   "name": "Netflix",
   "media": "mixed",
@@ -10,10 +10,10 @@
   "genre": null,
   "layout": "equal",
   "sortBy": "popularity.desc",
-  "releaseDateGte": "2016-07-13",
-  "releaseDateLte": "2026-07-13",
-  "firstAirDateGte": "2016-07-13",
-  "firstAirDateLte": "2026-07-13",
+  "releaseDateGte": "2016-08-01",
+  "releaseDateLte": "2026-08-01",
+  "firstAirDateGte": "2016-08-01",
+  "firstAirDateLte": "2026-08-01",
   "rotation": -16,
   "imageOffsetX": -50,
   "imageOffsetY": 75,
@@ -43,19 +43,27 @@
   "tmdbIds": [
     {
       "media": "tv",
-      "id": 94664
-    },
-    {
-      "media": "tv",
-      "id": 312949
-    },
-    {
-      "media": "tv",
       "id": 79744
     },
     {
+      "media": "movie",
+      "id": 1630409
+    },
+    {
       "media": "tv",
-      "id": 82452
+      "id": 94664
+    },
+    {
+      "media": "movie",
+      "id": 1668364
+    },
+    {
+      "media": "tv",
+      "id": 73586
+    },
+    {
+      "media": "movie",
+      "id": 949838
     },
     {
       "media": "tv",
@@ -63,31 +71,47 @@
     },
     {
       "media": "tv",
-      "id": 322430
+      "id": 71790
+    },
+    {
+      "media": "tv",
+      "id": 259140
+    },
+    {
+      "media": "tv",
+      "id": 71712
+    },
+    {
+      "media": "tv",
+      "id": 82452
+    },
+    {
+      "media": "tv",
+      "id": 313101
+    },
+    {
+      "media": "tv",
+      "id": 209867
+    },
+    {
+      "media": "tv",
+      "id": 95479
+    },
+    {
+      "media": "tv",
+      "id": 71728
     },
     {
       "media": "tv",
       "id": 276161
     },
     {
-      "media": "tv",
-      "id": 73586
-    },
-    {
-      "media": "tv",
-      "id": 66732
-    },
-    {
       "media": "movie",
-      "id": 1202033
+      "id": 1487861
     },
     {
       "media": "tv",
-      "id": 71790
-    },
-    {
-      "media": "tv",
-      "id": 95479
+      "id": 212989
     },
     {
       "media": "movie",
@@ -95,43 +119,7 @@
     },
     {
       "media": "tv",
-      "id": 278178
-    },
-    {
-      "media": "tv",
-      "id": 287976
-    },
-    {
-      "media": "movie",
-      "id": 1057265
-    },
-    {
-      "media": "tv",
-      "id": 71712
-    },
-    {
-      "media": "movie",
-      "id": 1397385
-    },
-    {
-      "media": "tv",
-      "id": 71728
-    },
-    {
-      "media": "movie",
-      "id": 1318447
-    },
-    {
-      "media": "tv",
-      "id": 209867
-    },
-    {
-      "media": "movie",
-      "id": 614945
-    },
-    {
-      "media": "tv",
-      "id": 297438
+      "id": 281281
     },
     {
       "media": "tv",
@@ -139,75 +127,11 @@
     },
     {
       "media": "tv",
-      "id": 200709
+      "id": 322430
     },
     {
       "media": "tv",
-      "id": 283304
-    },
-    {
-      "media": "movie",
-      "id": 1451078
-    },
-    {
-      "media": "movie",
-      "id": 1484913
-    },
-    {
-      "media": "movie",
-      "id": 1265609
-    },
-    {
-      "media": "movie",
-      "id": 438148
-    },
-    {
-      "media": "movie",
-      "id": 803796
-    },
-    {
-      "media": "movie",
-      "id": 1710008
-    },
-    {
-      "media": "movie",
-      "id": 713704
-    },
-    {
-      "media": "movie",
-      "id": 950387
-    },
-    {
-      "media": "movie",
-      "id": 502356
-    },
-    {
-      "media": "movie",
-      "id": 1630423
-    },
-    {
-      "media": "movie",
-      "id": 385687
-    },
-    {
-      "media": "movie",
-      "id": 1233413
-    },
-    {
-      "media": "movie",
-      "id": 324786
-    },
-    {
-      "media": "movie",
-      "id": 1715492
-    },
-    {
-      "media": "tv",
-      "id": 93405
-    },
-    {
-      "media": "tv",
-      "id": 91239
+      "id": 297438
     },
     {
       "media": "tv",
@@ -215,15 +139,79 @@
     },
     {
       "media": "tv",
+      "id": 91239
+    },
+    {
+      "media": "movie",
+      "id": 1318447
+    },
+    {
+      "media": "movie",
+      "id": 1659155
+    },
+    {
+      "media": "movie",
+      "id": 803796
+    },
+    {
+      "media": "movie",
+      "id": 385687
+    },
+    {
+      "media": "movie",
+      "id": 1265609
+    },
+    {
+      "media": "movie",
+      "id": 614945
+    },
+    {
+      "media": "movie",
+      "id": 1306368
+    },
+    {
+      "media": "movie",
+      "id": 414906
+    },
+    {
+      "media": "movie",
+      "id": 1330021
+    },
+    {
+      "media": "movie",
+      "id": 1233413
+    },
+    {
+      "media": "movie",
+      "id": 713704
+    },
+    {
+      "media": "movie",
+      "id": 1202033
+    },
+    {
+      "media": "movie",
+      "id": 950387
+    },
+    {
+      "media": "movie",
+      "id": 1057265
+    },
+    {
+      "media": "movie",
+      "id": 502356
+    },
+    {
+      "media": "tv",
       "id": 78191
     },
     {
       "media": "tv",
-      "id": 253960
+      "id": 278178
     },
     {
       "media": "tv",
-      "id": 74428
+      "id": 71912
     },
     {
       "media": "tv",
@@ -231,15 +219,27 @@
     },
     {
       "media": "tv",
-      "id": 194916
+      "id": 312949
     },
     {
       "media": "tv",
-      "id": 153217
+      "id": 70523
     },
     {
       "media": "tv",
-      "id": 76669
+      "id": 119051
+    },
+    {
+      "media": "tv",
+      "id": 200709
+    },
+    {
+      "media": "tv",
+      "id": 69050
+    },
+    {
+      "media": "tv",
+      "id": 81356
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T18:37:40.196Z",
+  "generatedAt": "2026-08-01T06:42:35.580Z",
   "outputPath": "output/misterio.png",
   "name": "Misterio",
   "media": "movie",
@@ -13,10 +13,10 @@
   },
   "layout": "equal",
   "sortBy": "popularity.desc",
-  "releaseDateGte": "2016-07-13",
-  "releaseDateLte": "2026-07-13",
-  "firstAirDateGte": "2016-07-13",
-  "firstAirDateLte": "2026-07-13",
+  "releaseDateGte": "2016-08-01",
+  "releaseDateLte": "2026-08-01",
+  "firstAirDateGte": "2016-08-01",
+  "firstAirDateLte": "2026-08-01",
   "rotation": -16,
   "imageOffsetX": -50,
   "imageOffsetY": 75,
@@ -50,15 +50,11 @@
     },
     {
       "media": "movie",
+      "id": 1668364
+    },
+    {
+      "media": "movie",
       "id": 1304313
-    },
-    {
-      "media": "movie",
-      "id": 1202033
-    },
-    {
-      "media": "movie",
-      "id": 1301421
     },
     {
       "media": "movie",
@@ -66,39 +62,15 @@
     },
     {
       "media": "movie",
+      "id": 1301421
+    },
+    {
+      "media": "movie",
+      "id": 1659155
+    },
+    {
+      "media": "movie",
       "id": 1368166
-    },
-    {
-      "media": "movie",
-      "id": 1545621
-    },
-    {
-      "media": "movie",
-      "id": 1168190
-    },
-    {
-      "media": "movie",
-      "id": 1159559
-    },
-    {
-      "media": "movie",
-      "id": 680493
-    },
-    {
-      "media": "movie",
-      "id": 411088
-    },
-    {
-      "media": "movie",
-      "id": 1414413
-    },
-    {
-      "media": "movie",
-      "id": 1330021
-    },
-    {
-      "media": "movie",
-      "id": 1470130
     },
     {
       "media": "movie",
@@ -106,15 +78,19 @@
     },
     {
       "media": "movie",
-      "id": 574475
+      "id": 1330021
     },
     {
       "media": "movie",
-      "id": 1193501
+      "id": 1202033
     },
     {
       "media": "movie",
-      "id": 497582
+      "id": 1159559
+    },
+    {
+      "media": "movie",
+      "id": 1168190
     },
     {
       "media": "movie",
@@ -122,15 +98,11 @@
     },
     {
       "media": "movie",
-      "id": 1219739
+      "id": 574475
     },
     {
       "media": "movie",
-      "id": 1083884
-    },
-    {
-      "media": "movie",
-      "id": 1100782
+      "id": 1232569
     },
     {
       "media": "movie",
@@ -138,19 +110,7 @@
     },
     {
       "media": "movie",
-      "id": 329865
-    },
-    {
-      "media": "movie",
-      "id": 1556616
-    },
-    {
-      "media": "movie",
-      "id": 1116201
-    },
-    {
-      "media": "movie",
-      "id": 1560681
+      "id": 1381027
     },
     {
       "media": "movie",
@@ -158,35 +118,15 @@
     },
     {
       "media": "movie",
-      "id": 530385
+      "id": 329865
     },
     {
       "media": "movie",
-      "id": 1408208
+      "id": 1058424
     },
     {
       "media": "movie",
-      "id": 829280
-    },
-    {
-      "media": "movie",
-      "id": 546554
-    },
-    {
-      "media": "movie",
-      "id": 1602337
-    },
-    {
-      "media": "movie",
-      "id": 1668364
-    },
-    {
-      "media": "movie",
-      "id": 1404791
-    },
-    {
-      "media": "movie",
-      "id": 493922
+      "id": 1100782
     },
     {
       "media": "movie",
@@ -194,19 +134,47 @@
     },
     {
       "media": "movie",
-      "id": 1381027
+      "id": 1470130
     },
     {
       "media": "movie",
-      "id": 1129104
+      "id": 680493
     },
     {
       "media": "movie",
-      "id": 870028
+      "id": 1545621
     },
     {
       "media": "movie",
-      "id": 1559575
+      "id": 951491
+    },
+    {
+      "media": "movie",
+      "id": 1193501
+    },
+    {
+      "media": "movie",
+      "id": 1556616
+    },
+    {
+      "media": "movie",
+      "id": 530385
+    },
+    {
+      "media": "movie",
+      "id": 546554
+    },
+    {
+      "media": "movie",
+      "id": 1116201
+    },
+    {
+      "media": "movie",
+      "id": 1098006
+    },
+    {
+      "media": "movie",
+      "id": 915935
     },
     {
       "media": "movie",
@@ -214,11 +182,11 @@
     },
     {
       "media": "movie",
-      "id": 1463681
+      "id": 493922
     },
     {
       "media": "movie",
-      "id": 1415974
+      "id": 411088
     },
     {
       "media": "movie",
@@ -226,23 +194,55 @@
     },
     {
       "media": "movie",
-      "id": 1119377
+      "id": 840705
     },
     {
       "media": "movie",
-      "id": 619979
+      "id": 747845
     },
     {
       "media": "movie",
-      "id": 1597655
+      "id": 335787
     },
     {
       "media": "movie",
-      "id": 1547392
+      "id": 1408208
     },
     {
       "media": "movie",
-      "id": 880067
+      "id": 662723
+    },
+    {
+      "media": "movie",
+      "id": 505026
+    },
+    {
+      "media": "movie",
+      "id": 497582
+    },
+    {
+      "media": "movie",
+      "id": 682507
+    },
+    {
+      "media": "movie",
+      "id": 1414413
+    },
+    {
+      "media": "movie",
+      "id": 646385
+    },
+    {
+      "media": "movie",
+      "id": 1404791
+    },
+    {
+      "media": "movie",
+      "id": 661374
+    },
+    {
+      "media": "movie",
+      "id": 870028
     }
   ]
 }
