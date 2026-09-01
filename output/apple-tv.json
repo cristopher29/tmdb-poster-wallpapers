@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T06:43:03.798Z",
+  "generatedAt": "2026-09-01T09:27:19.550Z",
   "outputPath": "output/apple-tv.png",
   "name": "Apple TV",
   "media": "mixed",
@@ -10,10 +10,10 @@
   "genre": null,
   "layout": "equal",
   "sortBy": "popularity.desc",
-  "releaseDateGte": "2016-08-01",
-  "releaseDateLte": "2026-08-01",
-  "firstAirDateGte": "2016-08-01",
-  "firstAirDateLte": "2026-08-01",
+  "releaseDateGte": "2016-09-01",
+  "releaseDateLte": "2026-09-01",
+  "firstAirDateGte": "2016-09-01",
+  "firstAirDateLte": "2026-09-01",
   "rotation": -16,
   "imageOffsetX": -50,
   "imageOffsetY": 75,
@@ -47,23 +47,11 @@
     },
     {
       "media": "tv",
-      "id": 278624
-    },
-    {
-      "media": "tv",
-      "id": 277439
-    },
-    {
-      "media": "tv",
       "id": 97546
     },
     {
       "media": "tv",
-      "id": 203744
-    },
-    {
-      "media": "movie",
-      "id": 1361774
+      "id": 196322
     },
     {
       "media": "tv",
@@ -72,6 +60,14 @@
     {
       "media": "tv",
       "id": 87917
+    },
+    {
+      "media": "tv",
+      "id": 278624
+    },
+    {
+      "media": "tv",
+      "id": 277439
     },
     {
       "media": "tv",
@@ -87,27 +83,15 @@
     },
     {
       "media": "tv",
-      "id": 270476
-    },
-    {
-      "media": "tv",
-      "id": 196322
-    },
-    {
-      "media": "tv",
       "id": 225171
     },
     {
       "media": "tv",
-      "id": 202411
+      "id": 270476
     },
     {
       "media": "movie",
       "id": 911430
-    },
-    {
-      "media": "movie",
-      "id": 950396
     },
     {
       "media": "tv",
@@ -115,11 +99,27 @@
     },
     {
       "media": "tv",
+      "id": 156933
+    },
+    {
+      "media": "movie",
+      "id": 950396
+    },
+    {
+      "media": "tv",
       "id": 80752
     },
     {
       "media": "tv",
-      "id": 98177
+      "id": 203744
+    },
+    {
+      "media": "tv",
+      "id": 248830
+    },
+    {
+      "media": "movie",
+      "id": 466420
     },
     {
       "media": "tv",
@@ -127,7 +127,7 @@
     },
     {
       "media": "tv",
-      "id": 156933
+      "id": 98177
     },
     {
       "media": "tv",
@@ -135,7 +135,7 @@
     },
     {
       "media": "movie",
-      "id": 753342
+      "id": 1698575
     },
     {
       "media": "movie",
@@ -143,15 +143,7 @@
     },
     {
       "media": "movie",
-      "id": 466420
-    },
-    {
-      "media": "movie",
-      "id": 1098006
-    },
-    {
-      "media": "movie",
-      "id": 1029575
+      "id": 1022256
     },
     {
       "media": "movie",
@@ -159,23 +151,11 @@
     },
     {
       "media": "movie",
-      "id": 516486
+      "id": 1029575
     },
     {
       "media": "movie",
-      "id": 632856
-    },
-    {
-      "media": "movie",
-      "id": 1049471
-    },
-    {
-      "media": "movie",
-      "id": 1698575
-    },
-    {
-      "media": "movie",
-      "id": 1022256
+      "id": 591538
     },
     {
       "media": "movie",
@@ -183,11 +163,15 @@
     },
     {
       "media": "movie",
-      "id": 1097311
+      "id": 753342
     },
     {
       "media": "movie",
-      "id": 868759
+      "id": 881211
+    },
+    {
+      "media": "movie",
+      "id": 1098006
     },
     {
       "media": "movie",
@@ -195,7 +179,23 @@
     },
     {
       "media": "movie",
-      "id": 1242434
+      "id": 516486
+    },
+    {
+      "media": "movie",
+      "id": 766319
+    },
+    {
+      "media": "movie",
+      "id": 1361774
+    },
+    {
+      "media": "movie",
+      "id": 877817
+    },
+    {
+      "media": "movie",
+      "id": 868759
     },
     {
       "media": "movie",
@@ -203,15 +203,15 @@
     },
     {
       "media": "tv",
-      "id": 247767
+      "id": 285310
     },
     {
       "media": "tv",
-      "id": 198102
+      "id": 130853
     },
     {
       "media": "tv",
-      "id": 147050
+      "id": 202411
     },
     {
       "media": "tv",
@@ -219,7 +219,7 @@
     },
     {
       "media": "tv",
-      "id": 88055
+      "id": 247767
     },
     {
       "media": "tv",
@@ -227,11 +227,7 @@
     },
     {
       "media": "tv",
-      "id": 245318
-    },
-    {
-      "media": "tv",
-      "id": 252107
+      "id": 199318
     },
     {
       "media": "tv",
@@ -239,7 +235,11 @@
     },
     {
       "media": "tv",
-      "id": 285404
+      "id": 72610
+    },
+    {
+      "media": "tv",
+      "id": 147050
     }
   ]
 }
