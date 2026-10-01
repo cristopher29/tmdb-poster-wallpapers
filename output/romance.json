@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T09:26:22.815Z",
+  "generatedAt": "2026-10-01T10:59:18.010Z",
   "outputPath": "output/romance.png",
   "name": "Romance",
   "media": "movie",
@@ -13,10 +13,10 @@
   },
   "layout": "equal",
   "sortBy": "popularity.desc",
-  "releaseDateGte": "2016-09-01",
-  "releaseDateLte": "2026-09-01",
-  "firstAirDateGte": "2016-09-01",
-  "firstAirDateLte": "2026-09-01",
+  "releaseDateGte": "2016-10-01",
+  "releaseDateLte": "2026-10-01",
+  "firstAirDateGte": "2016-10-01",
+  "firstAirDateLte": "2026-10-01",
   "rotation": -16,
   "imageOffsetX": -50,
   "imageOffsetY": 75,
@@ -46,11 +46,35 @@
   "tmdbIds": [
     {
       "media": "movie",
-      "id": 1516698
+      "id": 1032863
+    },
+    {
+      "media": "movie",
+      "id": 1538457
     },
     {
       "media": "movie",
       "id": 1285366
+    },
+    {
+      "media": "movie",
+      "id": 1440098
+    },
+    {
+      "media": "movie",
+      "id": 1240889
+    },
+    {
+      "media": "movie",
+      "id": 1641629
+    },
+    {
+      "media": "movie",
+      "id": 1516698
+    },
+    {
+      "media": "movie",
+      "id": 1302904
     },
     {
       "media": "movie",
@@ -62,26 +86,6 @@
     },
     {
       "media": "movie",
-      "id": 1564614
-    },
-    {
-      "media": "movie",
-      "id": 1538273
-    },
-    {
-      "media": "movie",
-      "id": 1497463
-    },
-    {
-      "media": "movie",
-      "id": 1325734
-    },
-    {
-      "media": "movie",
-      "id": 1218925
-    },
-    {
-      "media": "movie",
       "id": 1010581
     },
     {
@@ -90,11 +94,7 @@
     },
     {
       "media": "movie",
-      "id": 950396
-    },
-    {
-      "media": "movie",
-      "id": 1676318
+      "id": 1325734
     },
     {
       "media": "movie",
@@ -102,39 +102,7 @@
     },
     {
       "media": "movie",
-      "id": 1316092
-    },
-    {
-      "media": "movie",
-      "id": 614945
-    },
-    {
-      "media": "movie",
-      "id": 1240889
-    },
-    {
-      "media": "movie",
-      "id": 1650558
-    },
-    {
-      "media": "movie",
-      "id": 1156594
-    },
-    {
-      "media": "movie",
-      "id": 744275
-    },
-    {
-      "media": "movie",
-      "id": 474412
-    },
-    {
-      "media": "movie",
-      "id": 398818
-    },
-    {
-      "media": "movie",
-      "id": 402431
+      "id": 950396
     },
     {
       "media": "movie",
@@ -142,11 +110,19 @@
     },
     {
       "media": "movie",
-      "id": 321612
+      "id": 895954
     },
     {
       "media": "movie",
-      "id": 937287
+      "id": 1218925
+    },
+    {
+      "media": "movie",
+      "id": 1339588
+    },
+    {
+      "media": "movie",
+      "id": 1685882
     },
     {
       "media": "movie",
@@ -154,55 +130,11 @@
     },
     {
       "media": "movie",
-      "id": 1156593
+      "id": 1451944
     },
     {
       "media": "movie",
-      "id": 337167
-    },
-    {
-      "media": "movie",
-      "id": 1418582
-    },
-    {
-      "media": "movie",
-      "id": 829557
-    },
-    {
-      "media": "movie",
-      "id": 1246049
-    },
-    {
-      "media": "movie",
-      "id": 1232449
-    },
-    {
-      "media": "movie",
-      "id": 1632181
-    },
-    {
-      "media": "movie",
-      "id": 976573
-    },
-    {
-      "media": "movie",
-      "id": 1608457
-    },
-    {
-      "media": "movie",
-      "id": 1002398
-    },
-    {
-      "media": "movie",
-      "id": 1417285
-    },
-    {
-      "media": "movie",
-      "id": 1477317
-    },
-    {
-      "media": "movie",
-      "id": 1408170
+      "id": 791128
     },
     {
       "media": "movie",
@@ -210,23 +142,27 @@
     },
     {
       "media": "movie",
-      "id": 1064213
+      "id": 1564614
     },
     {
       "media": "movie",
-      "id": 1097549
+      "id": 398818
     },
     {
       "media": "movie",
-      "id": 1231767
+      "id": 829557
     },
     {
       "media": "movie",
-      "id": 1397485
+      "id": 331482
     },
     {
       "media": "movie",
-      "id": 853033
+      "id": 1608457
+    },
+    {
+      "media": "movie",
+      "id": 337167
     },
     {
       "media": "movie",
@@ -234,15 +170,79 @@
     },
     {
       "media": "movie",
+      "id": 402431
+    },
+    {
+      "media": "movie",
+      "id": 843527
+    },
+    {
+      "media": "movie",
+      "id": 1316092
+    },
+    {
+      "media": "movie",
+      "id": 1231767
+    },
+    {
+      "media": "movie",
+      "id": 1156594
+    },
+    {
+      "media": "movie",
+      "id": 321612
+    },
+    {
+      "media": "movie",
+      "id": 746036
+    },
+    {
+      "media": "movie",
+      "id": 1156593
+    },
+    {
+      "media": "movie",
+      "id": 937287
+    },
+    {
+      "media": "movie",
+      "id": 1358280
+    },
+    {
+      "media": "movie",
       "id": 447277
     },
     {
       "media": "movie",
-      "id": 1317672
+      "id": 1294203
     },
     {
       "media": "movie",
-      "id": 895954
+      "id": 1314279
+    },
+    {
+      "media": "movie",
+      "id": 1232221
+    },
+    {
+      "media": "movie",
+      "id": 332562
+    },
+    {
+      "media": "movie",
+      "id": 853033
+    },
+    {
+      "media": "movie",
+      "id": 1489187
+    },
+    {
+      "media": "movie",
+      "id": 1246049
+    },
+    {
+      "media": "movie",
+      "id": 930094
     }
   ]
 }
