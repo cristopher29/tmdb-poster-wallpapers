@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T10:58:44.771Z",
+  "generatedAt": "2026-11-01T11:17:50.865Z",
   "outputPath": "output/accion.png",
   "name": "Accion",
   "media": "movie",
@@ -13,10 +13,10 @@
   },
   "layout": "equal",
   "sortBy": "popularity.desc",
-  "releaseDateGte": "2016-10-01",
-  "releaseDateLte": "2026-10-01",
-  "firstAirDateGte": "2016-10-01",
-  "firstAirDateLte": "2026-10-01",
+  "releaseDateGte": "2016-11-01",
+  "releaseDateLte": "2026-11-01",
+  "firstAirDateGte": "2016-11-01",
+  "firstAirDateLte": "2026-11-01",
   "rotation": -16,
   "imageOffsetX": -50,
   "imageOffsetY": 75,
@@ -46,7 +46,19 @@
   "tmdbIds": [
     {
       "media": "movie",
+      "id": 1058424
+    },
+    {
+      "media": "movie",
       "id": 969681
+    },
+    {
+      "media": "movie",
+      "id": 1507696
+    },
+    {
+      "media": "movie",
+      "id": 1657630
     },
     {
       "media": "movie",
@@ -54,15 +66,35 @@
     },
     {
       "media": "movie",
+      "id": 1384216
+    },
+    {
+      "media": "movie",
+      "id": 1294189
+    },
+    {
+      "media": "movie",
+      "id": 1148365
+    },
+    {
+      "media": "movie",
+      "id": 1571955
+    },
+    {
+      "media": "movie",
       "id": 1228834
     },
     {
       "media": "movie",
-      "id": 1377237
+      "id": 1561726
     },
     {
       "media": "movie",
-      "id": 1375646
+      "id": 1153576
+    },
+    {
+      "media": "movie",
+      "id": 1236045
     },
     {
       "media": "movie",
@@ -70,11 +102,15 @@
     },
     {
       "media": "movie",
-      "id": 460458
+      "id": 1377237
     },
     {
       "media": "movie",
-      "id": 1482547
+      "id": 1284046
+    },
+    {
+      "media": "movie",
+      "id": 1375646
     },
     {
       "media": "movie",
@@ -82,7 +118,11 @@
     },
     {
       "media": "movie",
-      "id": 1607127
+      "id": 1476746
+    },
+    {
+      "media": "movie",
+      "id": 1110034
     },
     {
       "media": "movie",
@@ -90,19 +130,7 @@
     },
     {
       "media": "movie",
-      "id": 1340102
-    },
-    {
-      "media": "movie",
-      "id": 1386315
-    },
-    {
-      "media": "movie",
-      "id": 1284465
-    },
-    {
-      "media": "movie",
-      "id": 1621552
+      "id": 533535
     },
     {
       "media": "movie",
@@ -110,23 +138,19 @@
     },
     {
       "media": "movie",
-      "id": 1228710
+      "id": 494656
     },
     {
       "media": "movie",
-      "id": 1419406
+      "id": 460458
     },
     {
       "media": "movie",
-      "id": 1323244
+      "id": 1233413
     },
     {
       "media": "movie",
-      "id": 533535
-    },
-    {
-      "media": "movie",
-      "id": 1311031
+      "id": 572802
     },
     {
       "media": "movie",
@@ -134,7 +158,15 @@
     },
     {
       "media": "movie",
-      "id": 569094
+      "id": 361743
+    },
+    {
+      "media": "movie",
+      "id": 1311031
+    },
+    {
+      "media": "movie",
+      "id": 1515692
     },
     {
       "media": "movie",
@@ -142,75 +174,11 @@
     },
     {
       "media": "movie",
-      "id": 1280738
+      "id": 569094
     },
     {
       "media": "movie",
-      "id": 1560520
-    },
-    {
-      "media": "movie",
-      "id": 813418
-    },
-    {
-      "media": "movie",
-      "id": 1137844
-    },
-    {
-      "media": "movie",
-      "id": 1058424
-    },
-    {
-      "media": "movie",
-      "id": 1506560
-    },
-    {
-      "media": "movie",
-      "id": 454639
-    },
-    {
-      "media": "movie",
-      "id": 361743
-    },
-    {
-      "media": "movie",
-      "id": 911430
-    },
-    {
-      "media": "movie",
-      "id": 1594914
-    },
-    {
-      "media": "movie",
-      "id": 1234821
-    },
-    {
-      "media": "movie",
-      "id": 1011477
-    },
-    {
-      "media": "movie",
-      "id": 76600
-    },
-    {
-      "media": "movie",
-      "id": 1439930
-    },
-    {
-      "media": "movie",
-      "id": 1061474
-    },
-    {
-      "media": "movie",
-      "id": 843352
-    },
-    {
-      "media": "movie",
-      "id": 1168190
-    },
-    {
-      "media": "movie",
-      "id": 912649
+      "id": 1607127
     },
     {
       "media": "movie",
@@ -218,11 +186,39 @@
     },
     {
       "media": "movie",
-      "id": 385687
+      "id": 866398
     },
     {
       "media": "movie",
-      "id": 986056
+      "id": 911430
+    },
+    {
+      "media": "movie",
+      "id": 1669915
+    },
+    {
+      "media": "movie",
+      "id": 1437396
+    },
+    {
+      "media": "movie",
+      "id": 624860
+    },
+    {
+      "media": "movie",
+      "id": 977942
+    },
+    {
+      "media": "movie",
+      "id": 1419406
+    },
+    {
+      "media": "movie",
+      "id": 315635
+    },
+    {
+      "media": "movie",
+      "id": 603692
     },
     {
       "media": "movie",
@@ -230,19 +226,23 @@
     },
     {
       "media": "movie",
-      "id": 447365
+      "id": 843352
     },
     {
       "media": "movie",
-      "id": 1290821
+      "id": 1228710
     },
     {
       "media": "movie",
-      "id": 575265
+      "id": 1185344
     },
     {
       "media": "movie",
-      "id": 617126
+      "id": 454639
+    },
+    {
+      "media": "movie",
+      "id": 1061474
     }
   ]
 }
